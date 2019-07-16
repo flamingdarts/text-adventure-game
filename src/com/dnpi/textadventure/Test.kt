@@ -28,7 +28,3 @@ fun main(args: Array<String>) {
         }
     }
 }
-
-fun area(width: Int, height: Int) {
-    println("$width and $height")
-}
